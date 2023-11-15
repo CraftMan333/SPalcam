@@ -1,8 +1,6 @@
 # SPalcam 
-SPalcam es un proyecto donde nos proponemos crear una web/red social para colegios y estudiantes.
+SPalcam is a project where we aim to create a website/social network for schools and students.
 
-Desde que se comenzo la introduccion de los dispositivos moviles a los institutos e universidades los estudiantes hemos pasado por diversas complicaciones.. 
-Una de ellas es la inavilitacion de las redes en dichos dispositivos, es por eso que proponemos crear la primera red social exclusiva para la educación.
-Con esto queremos crear un entorno con el que los adolescentes se sientan familiarizados y asi facilitar el aprendizaje.
+Since the introduction of mobile devices in high schools and universities, students have gone through several complications... One of them is the inavailability of networks on these devices, that's why we propose to create the first social network exclusively for education. With this we want to create an environment with which teenagers feel familiar and thus facilitate learning.
 
-#Estudiantes #Colegios #Redes_Sociales
+#Students #Schools #Social_Networks
